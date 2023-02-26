@@ -1,0 +1,54 @@
+:root { 
+    --mybgcolor: #a8dba8;
+    --defbgcolor: #f5f5dc;
+}
+
+.grid {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 40%;
+    font-family: sans-serif;
+    grid-template-areas:
+        "apptitle apptitle"
+        "recipe recipe"
+        "ingredients picture"
+        "procedure procedure";
+    background-color: var(--defbgcolor);
+    row-gap: 10px;
+}
+.apptitle {
+    grid-area: apptitle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--mybgcolor);
+    border-style:ridge;
+}
+.recipe {
+    grid-area: recipe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--mybgcolor);
+    border-style:ridge;
+}
+.ingredients {
+    grid-area: ingredients;
+    padding-left: 10px;
+    background-color: var(--mybgcolor);
+    border-style:ridge;
+}
+.picture {
+    grid-area: picture;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--mybgcolor);
+    border-style:ridge;
+}
+.procedure {
+    grid-area: procedure;
+    padding-left: 10px;
+    background-color: var(--mybgcolor);
+    border-style:ridge;
+}

@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Simple syrup",
+        "ingredients" : [
+            {
+                "ingredient": "water",
+                "quantity": "1",
+                "measure": "cup"
+            },
+            {
+                "ingredient": "sugar",
+                "quantity": "1",
+                "measure": "cup"
+            }
+        ],
+        "steps" : {
+            "1": "In a pan mix water and sugar",
+            "2": "Heat at medium until all sugar is disolved",
+            "3": "Let cool, and add to squirt bottle"
+        }
+    },
+    {
+        "title": "Bulgogi marinade",
+        "ingredients" : [
+            {
+                "ingredient": "green onion",
+                "quantity": "3",
+                "measure": "finely chopped"
+            },
+            {
+                "ingredient": "sugar",
+                "quantity": "2.5",
+                "measure": "tablespoon(s)"
+            },
+            {
+                "ingredient": "Koren clili flakes (Gochugaru)",
+                "quantity": "2.5",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "beef stock",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "oyster sauce",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "sesame oil",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "mirin",
+                "quantity": "2",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "corn syrup",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "green onion",
+                "quantity": "3",
+                "measure": "finely chopped"
+            },
+            {
+                "ingredient": "Korean chili paste (Gochujang)",
+                "quantity": "3.5",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "onion",
+                "quantity": "1/2",
+                "measure": "roughly chopped"
+            },
+            {
+                "ingredient": "apple",
+                "quantity": "1/2",
+                "measure": "roughly chopped"
+            },
+            {
+                "ingredient": "pinapple juice",
+                "quantity": "100",
+                "measure": "ml"
+            }
+        ],
+        "steps" : {
+            "1": "Add pinapple juice, onion, and apple to a blender and purée until smooth",
+            "2": "Add purée and rest of ingredients to bowl and mix well",
+            "3": "Pour over thinly slided meat and put in refrigerator for at least 4 hrs"
+        }
+    },
+    {
+        "title": "Chili Oil",
+        "ingredients" : [
+            {
+                "ingredient": "star anise",
+                "quantity": "2",
+                "measure": "pods"
+            },
+            {
+                "ingredient": "cloves",
+                "quantity": "1/4",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "sichuan peppercorns",
+                "quantity": "1",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "cinnamon",
+                "quantity": "1",
+                "measure": "stick"
+            },
+            {
+                "ingredient": "cardamom",
+                "quantity": "4",
+                "measure": "pods"
+            },
+            {
+                "ingredient": "bay leaves",
+                "quantity": "2",
+                "measure": "none"
+            },
+            {
+                "ingredient": "black peppercorns",
+                "quantity": "1",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "Koren clili flakes (Gochugaru)",
+                "quantity": "1/2",
+                "measure": "cup"
+            },
+            {
+                "ingredient": "white sesame seeds",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "Himalayan pink salt",
+                "quantity": "2",
+                "measure": "teaspoons"
+            },
+            {
+                "ingredient": "garlic",
+                "quantity": "4",
+                "measure": "cloves"
+            },
+            {
+                "ingredient": "ginger root",
+                "quantity": "1",
+                "measure": "inch"
+            },
+            {
+                "ingredient": "green onion",
+                "quantity": "3",
+                "measure": "sticks"
+            },
+            {
+                "ingredient": "neutral flavor oil",
+                "quantity": "2",
+                "measure": "cups"
+            },
+            {
+                "ingredient": "rice wine vinegar",
+                "quantity": "1/2",
+                "measure": "tablespoon"
+            }
+        ],
+        "steps" : {
+            "1": "Toast the star anise, cloves, sichuan peppercorns, cinnamon stick, cardamom, black peppercorns, and bay leaves in a frying pan on medium heat for 2-3 min. Then, set aside",
+            "2": "Add the gochugaru to a heat proof jar followed by the sesame seeds, salt, and the toasted spices",
+            "3": "Roughly chop the garlic, ginger, and green onions",
+            "4": "Pour the avocado oil into a small saucepan and add in the garlic, ginger, and green onions",
+            "5": "Heat the oil on medium.  When it starts to bubble, turn the heat down to medium low and simmer for 15 min",
+            "6": "Carefully strain out the oil with a sieve",
+            "7": "Add a splash of the vinegar into the jar followed by the hot oil",
+            "8": "Give it a stir and let it infuse for at least half a day before using."
+        },
+        "image" : "chili-oil.png"
+    },
+    {
+        "title": "Yufka (Turkish flat bread)",
+        "ingredients" : [
+            {
+                "ingredient": "olive oil",
+                "quantity": "2",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "salt",
+                "quantity": "1/8",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "all purpose flour",
+                "quantity": "2",
+                "measure": "cups"
+            },
+            {
+                "ingredient": "warm water (~110 degrees)",
+                "quantity": "2/3",
+                "measure": "cup"
+            }
+        ],
+        "steps" : {
+            "1": "Add all ingredients to bowl of mixer",
+            "2": "Mix with hook for a few minutes until it comes together",
+            "3": "Put it in lightly oiled bowl and cover it with a kitchen towerl for 1 hr",
+            "4": "Devide into 6 pices",
+            "5": "Roll each into balls and cover them with a kitchen towel",
+            "6": "Lightly flour working surface to prevent sticking",
+            "7": "Roll each ball to around 8 inich disc",
+            "8": "Separate discs with parchment paper and keep covered",
+            "9": "Heat pan over high heat",
+            "10": "Cook for about 20 seconds per side",
+            "11": "Keep in a plastic bag to keep them playable"
+        },
+        "image" : "yufka.png"
+    },
+    {
+        "title": "Coconut Curry Fried Rice",
+        "ingredients" : [
+            {
+                "ingredient": "garlic",
+                "quantity": "3",
+                "measure": "cloves"
+            },
+            {
+                "ingredient": "red onion",
+                "quantity": "1/2"
+            },
+            {
+                "ingredient": "bell pepper",
+                "quantity": "1/2"
+            },
+            {
+                "ingredient": "broccolini",
+                "quantity": "70",
+                "measure": "grams"
+            },
+            {
+                "ingredient": "shredded coconut",
+                "quantity": "1",
+                "measure": "cup"
+            },
+            {
+                "ingredient": "chili oil",
+                "quantity": "2",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "chickpeas",
+                "quantity": "1/2",
+                "measure": "cup"
+            },
+            {
+                "ingredient": "roasted unsalted peanuts",
+                "quantity": "1/4",
+                "measure": "cup"
+            },
+            {
+                "ingredient": "leftover rice",
+                "quantity": "1.5",
+                "measure": "cups"
+            },
+            {
+                "ingredient": "curry powder",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "soy sauce",
+                "quantity": "2",
+                "measure": "tablespoons"
+            }
+        ],
+        "steps" : {
+            "1": "Roughly chop the garlic, dice the red onion and bell pepper, and chop the broccolini into bite size pieces",
+            "2": "Heat up a non stick pan to medium heat.  Toast the shredded coconut for 1-2 minutes and set aside",
+            "3": "Place pan back over medium heat",
+            "4": "Add in the chili oil followed by the red onions and garlic and sauté for 2 minutes",
+            "5": "Add in the chickpeas, broccolini, and red bell pepper and sauté for 2-3 minutes",
+            "6": "Add in the peanuts, rice, curry powder, and soy sauce",
+            "7": "Sauté for another 2-3 minutes. Then, add in 2/3 of the toasted coconut and save the rest for garnish",
+            "8": "Give the rice a stir around and plate. Garnish with the remaining toasted coconut and serve"
+        }
+    },
+    {
+        "title": "Cheese Stuffed Chicken",
+        "ingredients" : [
+            {
+                "ingredient": "boneless chicken breasts",
+                "quantity": "3"
+            },
+            {
+                "ingredient": "salt",
+                "quantity": "2",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "black pepper",
+                "quantity": "1",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "paprika",
+                "quantity": "1.5",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "cream cheese",
+                "quantity": "9",
+                "measure": "ounces"
+            },
+            {
+                "ingredient": "mozzarella cheese",
+                "quantity": "6",
+                "measure": "ounces"
+            },
+            {
+                "ingredient": "garlic",
+                "quantity": "2",
+                "measure": "cloves"
+            },
+            {
+                "ingredient": "spinach",
+                "quantity": "7",
+                "measure": "ounces"
+            }
+        ],
+        "steps" : {
+            "1": "Pre-heat oven to 355 degrees",
+            "2": "Season chicken with salt, pepper, and paprika",
+            "3": "Mix cream cheese, mozzarella, garlic, and spinach",
+            "4": "Cut a pocket in each chicken breast",
+            "5": "Fill chicken pocket with cheese filling",
+            "6": "Close pocket with a toothpick",
+            "7": "Place chicken in baking dish",
+            "8": "Bake for 35 minutes"
+        }
+    },
+    {
+        "title": "Irish Beef Stew",
+        "ingredients":
+        [
+            {
+                "ingredient": "stew meat",
+                "quantity": "1.5",
+                "measure": "lbs"
+            },
+            {
+                "ingredient": "paprika",
+                "quantity": "3",
+                "measure": "teaspoons"
+            },
+            {
+                "ingredient": "all purpose flour",
+                "quantity": "4.5",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "butter",
+                "quantity": "4",
+                "measure": "teaspoons"
+            },
+            {
+                "ingredient": "onion",
+                "quantity": "1",
+                "measure": "roughly chopped"
+            },
+            {
+                "ingredient": "Guinness beer",
+                "quantity": "5",
+                "measure": "ounces"
+            },
+            {
+                "ingredient": "bay leaves",
+                "quantity": "4"
+            },
+            {
+                "ingredient": "butter",
+                "quantity": "4",
+                "measure": "teaspoons"
+            },{
+                "ingredient": "thyme",
+                "quantity": "4",
+                "measure": "sprigs"
+            },
+            {
+                "ingredient": "leek",
+                "quantity": "1",
+                "measure": "bulb"
+            },
+            {
+                "ingredient": "carrots",
+                "quantity": "2",
+                "measure": "diced"
+            },
+            {
+                "ingredient": "black pepper",
+                "quantity": "4",
+                "measure": "teaspoons"
+            },
+            {
+                "ingredient": "salt",
+                "quantity": "4",
+                "measure": "teaspoons"
+            }
+        ],
+        "steps" : {
+            "1": "Cut beef into 1 inch cubes",
+            "2": "Season beef with salt, pepper, and paprika",
+            "3": "Add flour and mix well to cover beef",
+            "4": "Heat butter in pan and brown the beef",
+            "5": "Add onions and sauté for 1 minute",
+            "6": "Add beer, bay leaves, and thyme",
+            "7": "Cover and cook for 1.5 hrs",
+            "8": "Add carrots and leeks and simmer for an additional 1 hr"
+        }
+    },
+    {
+        "title": "Pork vindaloo",
+        "ingredients":
+        [
+            {
+                "ingredient": "ginger",
+                "quantity": "2",
+                "measure": "inches"
+            },
+            {
+                "ingredient": "garlic",
+                "quantity": "6",
+                "measure": "cloves"
+            },
+            {
+                "ingredient": "kashmiri chili powder",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "paprika",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "cumin",
+                "quantity": "1",
+                "measure": "tablespoon"
+            },
+            {
+                "ingredient": "salt",
+                "quantity": "2",
+                "measure": "teaspoons"
+            },
+            {
+                "ingredient": "black pepper",
+                "quantity": "1",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "ground cinnamon",
+                "quantity": ".5",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "cardamom",
+                "quantity": ".5",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "ground clove",
+                "quantity": ".25",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "nutmeg",
+                "quantity": ".25",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "water",
+                "quantity": ".75",
+                "measure": "cups"
+            },
+            {
+                "ingredient": "pork",
+                "quantity": "3.5",
+                "measure": "lbs"
+            },
+            {
+                "ingredient": "oil",
+                "quantity": "3",
+                "measure": "tablespoons"
+            },
+            {
+                "ingredient": "white wine vinagir",
+                "quantity": ".75",
+                "measure": "cups"
+            }
+        ],
+        "steps": {
+            "1": "Pre-heat oven to 325 degrees",
+            "2": "Cut pork into 1 inch pieces",
+            "3": "Add all ingredients to a blender and blend until smooth",
+            "4": "Add mixture to pork, mix well and let marinate for at least 30 minutes",
+            "5": "Heat oil in oven safe pot when hot add pork and cook for 5 minutes",
+            "6": "Cover pot and place in oven and cook for 40 minutes",
+            "7": "Remove from oven add vinagir adn stir",
+            "8": "Cover and return to oven for 20 minutes",
+            "9": "Reove lid and cook until pork is fork tender"
+        }
+    },
+    {
+        "title": "Quick Apple Pie",
+        "ingredients":
+        [
+            {
+                "ingredient": "moonshine",
+                "quantity": "to taste"
+            },
+            {
+                "ingredient": "apple",
+                "quantity": "1",
+                "measure": "sliced"
+            },
+            {
+                "ingredient": "apple juice concentrate",
+                "quantity": "24",
+                "measure": "ounces"
+            },
+            {
+                "ingredient": "ginger",
+                "quantity": "1",
+                "measure": "inch"
+            },
+            {
+                "ingredient": "nutmeg",
+                "quantity": "1/8",
+                "measure": "teaspoon"
+            },
+            {
+                "ingredient": "cinnamon",
+                "quantity": "2",
+                "measure": "sticks"
+            }
+        ],
+        "steps":
+        {
+            "1": "In a pot cinnamon, ginger, nutmeg, apple concentrate and bring to a simmer over low heat",
+            "2": "Let it cool for 20 minutes",
+            "3": "Add to mason jar add apple and moonshine",
+            "4": "Refrigerate for at least 4 hrs"
+        }
+    }
+]

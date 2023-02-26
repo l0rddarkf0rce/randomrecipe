@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Random Recipe Picker</title>
+        <link rel="stylesheet" type="text/css" href="./static/style.css" />
+        
+    </head>
+    <body>
+        <div class="grid">
+            <div class="apptitle">
+                <h1>Random Recipe Picker</h1>
+            </div>
+            <div class="recipe">
+                <h2><name></name></h2>
+            </div>
+            <div class="picture">
+                <pic></pic>
+            </div>
+            <div class="ingredients">
+                <ingredients><h2>Ingredients</h2></ingredients>
+            </div>
+            <div class="procedure">
+                <steps><h2>Procedure</h2></steps>
+            </div>
+        </div>
+        
+        <script type='text/javascript'>
+            var mydata = '{{recipe}}'.replace(/&#39\;/g, '"');
+            var jData = JSON.parse(mydata);
+            
+            // Recipe Name
+            const name = document.querySelector('name');
+            name.textContent = jData.title;
+            
+            // Ingredients
+            const ing = document.querySelector('ingredients');
+            const inglist = document.createElement('ul');
+
+            for (const i of jData.ingredients)
+            {
+                const listItm = document.createElement('li');
+                listItm.textContent = i;
+                inglist.appendChild(listItm);
+            }
+            ing.appendChild(inglist);
+
+            // Procedure
+            const steps = document.querySelector('steps');
+            const stepslist = document.createElement('ol');
+
+            for (const s of jData.steps)
+            {
+                const step = document.createElement('li');
+                step.textContent = s.substring(4);
+                stepslist.appendChild(step);
+            }
+            steps.appendChild(stepslist);
+
+            if (jData.image)
+            {
+                const p = document.querySelector('pic');
+                const myimg = document.createElement('img');
+                myimg.src = './static/images/' + jData.image;
+                p.appendChild(myimg);
+            }
+        </script>
+    </body>
+</html>
