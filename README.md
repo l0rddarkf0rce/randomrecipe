@@ -7,3 +7,6 @@ The default port when you run the program is 5000 but this can be easily changed
 * flask
 * sqlite3
 * random
+
+## Other info
+If you want to add new recipes to your database go to the 'other' folder for additional information.
